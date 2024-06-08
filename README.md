@@ -13,9 +13,6 @@ El Inventory Management System es una aplicación de gestión de inventarios des
 - [Requisitos Previos](#requisitos-previos)
 - [Instalación](#instalación)
 - [Uso](#uso)
-- [Contribuir](#contribuir)
-- [Licencia](#licencia)
-- [Contacto](#contacto)
 
 ## Características
 
